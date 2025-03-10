@@ -1,0 +1,16 @@
+<dependencies>
+    <!-- Spigot API -->
+    <dependency>
+        <groupId>org.spigotmc</groupId>
+        <artifactId>spigot-api</artifactId>
+        <version>1.12.2-R0.1-SNAPSHOT</version>
+        <scope>provided</scope>
+    </dependency>
+    <!-- Pixelmon API -->
+    <dependency>
+        <groupId>com.pixelmonmod.pixelmon</groupId>
+        <artifactId>Pixelmon</artifactId>
+        <version>8.3.6</version>
+        <scope>provided</scope>
+    </dependency>
+</dependencies>
