@@ -1,4 +1,8 @@
 ![mojang](https://github.com/user-attachments/assets/b6f2bb64-4946-44bc-9726-5e32d9d89577)
+认证爱发电账号：https://ifdian.net/a/fb-bot
+Bilibili账号：https://space.bilibili.com/441936099?spm_id_from=333.1007.0.0
+认证QQ账号：2196368363
+QQ群：338038221
 玩家可以在游戏中捕捉、训练和对战宝可梦（Pokémon）。以下是关于神奇宝贝服务器的简单介绍：
 
 1. 核心玩法
