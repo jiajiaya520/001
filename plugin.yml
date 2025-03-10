@@ -1,0 +1,8 @@
+name: PokemonServer
+version: 1.0
+main: com.example.pokemonserver.PokemonServer
+commands:
+  spawnpokemon:
+    description: 生成一只野生宝可梦
+  startbattle:
+    description: 开始一场宝可梦战斗
